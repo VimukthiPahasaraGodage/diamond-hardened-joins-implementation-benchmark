@@ -1,0 +1,4 @@
+SELECT COUNT(*)
+FROM Products p
+JOIN Categories c ON p.category_id = c.category_id
+JOIN Suppliers s ON p.supplier_id = s.supplier_id;

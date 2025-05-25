@@ -1,0 +1,9 @@
+SELECT COUNT(*)
+FROM Products p
+JOIN Subcategories sc ON p.category_id = sc.subcategory_id
+JOIN Categories c ON sc.category_id = c.category_id
+JOIN Suppliers s ON p.supplier_id = s.supplier_id
+JOIN Manufacturers m ON p.manufacturer_id = m.manufacturer_id
+JOIN Regions r1 ON s.region_id = r1.region_id
+JOIN Regions r2 ON m.region_id = r2.region_id
+WHERE r1.region_id = r2.region_id;

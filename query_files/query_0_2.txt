@@ -1,0 +1,5 @@
+SELECT COUNT(*)
+FROM Products p
+JOIN Suppliers s ON p.supplier_id = s.supplier_id
+JOIN Regions r ON s.region_id = r.region_id
+JOIN Countries c ON r.country_id = c.country_id;

@@ -1,0 +1,7 @@
+SELECT COUNT(*)
+FROM Products p
+JOIN Categories c ON p.category_id = c.category_id
+JOIN Manufacturers m ON p.manufacturer_id = m.manufacturer_id
+JOIN Reviews r ON r.product_id = p.product_id
+JOIN Reviewers rv ON r.reviewer_id = rv.reviewer_id
+JOIN Regions rg ON rv.region_id = rg.region_id;

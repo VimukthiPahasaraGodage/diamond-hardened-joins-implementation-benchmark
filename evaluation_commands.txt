@@ -1,0 +1,43 @@
+\f C:\query_files\benchmark2\query_0_1.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_0_2.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_0_3.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_0_4.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_0_5.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_0_6.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_0_7.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_0_8.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_0_9.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_0_10.sql --std-out 1 --opt LE-decomposition
+
+\f C:\query_files\benchmark2\query_1_1.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_1_2.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_1_3.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_1_4.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_1_5.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_1_6.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_1_7.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_1_8.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_1_9.sql --std-out 1 --opt LE-decomposition
+\f C:\query_files\benchmark2\query_1_10.sql --std-out 1 --opt LE-decomposition
+
+\f C:\query_files\benchmark2\query_0_1.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_0_2.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_0_3.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_0_4.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_0_5.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_0_6.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_0_7.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_0_8.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_0_9.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_0_10.sql --std-out 1 --opt normal
+
+\f C:\query_files\benchmark2\query_1_1.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_1_2.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_1_3.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_1_4.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_1_5.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_1_6.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_1_7.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_1_8.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_1_9.sql --std-out 1 --opt normal
+\f C:\query_files\benchmark2\query_1_10.sql --std-out 1 --opt normal

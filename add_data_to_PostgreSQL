@@ -1,0 +1,9 @@
+\copy countries from 'countries.csv' csv
+\copy regions from 'regions.csv' csv
+\copy categories from 'categories.csv' csv
+\copy subcategories from 'subcategories.csv' csv
+\copy suppliers from 'suppliers.csv' csv
+\copy manufacturers from 'manufacturers.csv' csv
+\copy products from 'products.csv' csv
+\copy reviewers from 'reviewers.csv' csv
+\copy reviews from 'reviews.csv' csv

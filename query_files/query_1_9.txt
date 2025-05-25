@@ -1,0 +1,15 @@
+SELECT COUNT(*)
+FROM Products p
+JOIN Subcategories sc ON p.category_id = sc.subcategory_id
+JOIN Categories c ON sc.category_id = c.category_id
+JOIN Reviews rv ON p.product_id = rv.product_id
+JOIN Reviewers r ON rv.reviewer_id = r.reviewer_id
+JOIN Suppliers s ON p.supplier_id = s.supplier_id
+JOIN Manufacturers m ON p.manufacturer_id = m.manufacturer_id
+JOIN Regions rs ON s.region_id = rs.region_id
+JOIN Regions rm ON m.region_id = rm.region_id
+JOIN Regions rr ON r.region_id = rr.region_id
+JOIN Countries cs ON rs.country_id = cs.country_id
+JOIN Countries cm ON rm.country_id = cm.country_id
+JOIN Countries cr ON rr.country_id = cr.country_id
+WHERE cs.country_id = cm.country_id AND cm.country_id = cr.country_id;
